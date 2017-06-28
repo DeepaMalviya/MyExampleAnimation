@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">MyExampleAnimation</string>
+
+
+
+        <!-- Main screen -->
+
+        <!-- Linear sample -->
+
+
+        <string name="collapsed">collapsed: %s</string>
+        <string name="expanded">expanded: %s</string>
+
+
+        <!-- Sample Toolbar -->
+
+
+</resources>
